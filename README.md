@@ -1,4 +1,4 @@
-# 360-ERP (FileMaker) — ERP + CRM for Industrial Automation Sales
+# 360-ERP (FileMaker) — ERP, CRM & Accounting for B2B Sales (Industrial Automation Sales)
 
 **360-ERP** is a FileMaker application I built over several years to help industrial automation sales teams in the United States run the full commercial workflow efficiently — from inbound lead generation to quoting, ordering, purchasing, fulfillment, invoicing, and accounting.
 
